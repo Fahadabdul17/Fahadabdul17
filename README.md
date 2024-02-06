@@ -2,6 +2,9 @@
 
 Perkenalkan nama saya **Fahad Abdul Aziz.**.  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
 <p align="left">
 <a href="https://github.com/fahadabdul17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadabdul17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
